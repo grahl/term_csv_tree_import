@@ -1,0 +1,7 @@
+term_csv_tree_import.import:
+  path: '/csv-tree-import'
+  defaults:
+    _form: '\Drupal\term_csv_tree_import\Form\DefaultForm'
+    _title: 'CSV Term Import'
+  requirements:
+    _access: 'TRUE'

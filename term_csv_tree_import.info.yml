@@ -1,0 +1,5 @@
+name: Term CSV Tree Import
+type: module
+description: Helper module to quickly import a list of terms with parent structure.
+core: 8.x
+package: Custom
